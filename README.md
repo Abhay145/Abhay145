@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm passionate about technology and always looking
 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="30" height="30"> Vercel
 - **Other:**
-    IoT, Deep Learning, Machine Learning
+    IoT
 
 Feel free to check out my repositories where I work on various projects showcasing my skills!
